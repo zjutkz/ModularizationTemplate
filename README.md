@@ -1,3 +1,7 @@
+#README in Chinese：
+
+[中文文档](https://github.com/zjutkz/ModularizationTemplate/blob/master/README-Chinese.md)
+
 #Android Studio templates' location
 
 Mac: Android Studio.app/Contents/plugins/android/lib/templates
@@ -81,6 +85,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-
 
