@@ -23,7 +23,8 @@
         id="modularization"
         name="Generate modularization file structure"
         type="boolean"
-        default="false" />
+        default="false"
+        help="If true, file structure will be changed to adapt modularization develop"  />
 
     <parameter
         id="generateLayout"
